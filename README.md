@@ -1,2 +1,2 @@
-# my-first-gh-repo
+# My First GitHub Repo
 This is my first GitHub repository
