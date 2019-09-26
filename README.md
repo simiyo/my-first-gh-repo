@@ -16,3 +16,6 @@ Anyone who wants to join in are welcomed.
 We will be taking contributions to our project so if you want to drop us a line of code; please feel free.
 # Findings
 You can use visual Studio Code to direcly stage (>git add) and push (>git push) your changes from local repo to GitHub.
+
+
+For you to commit from staging to master branch locally, you need to use cmd (>git commit -m "<Add your comments in>"). Interestingly enough if you type (>git commit -a) in cmd; you get a new file that pops up in Visual Studio to us to add your comments. Note that you will need to close this file in vidual studio before being able to complete the commit.
