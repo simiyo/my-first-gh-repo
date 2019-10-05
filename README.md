@@ -8,6 +8,7 @@ Tools used to build includes:
 - Windows OS
 - Visual Studio Code
 - Windows cmd
+- Linux OS
 
 This will largely be a self paced piece of work.
 # How to use this wiki
